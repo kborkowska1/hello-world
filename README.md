@@ -1,2 +1,2 @@
 # hello-world
-Learning git slowly, constantly and efficiently.
+Learning git slowly, constantly but efficiently.
